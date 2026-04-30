@@ -2,7 +2,7 @@
   "$schema": "https://schemas.wp.org/trunk/block.json",
   "apiVersion": 3,
   "name": "boldblocks/youtube-block",
-  "title": "YouTube Block - A better way to embed YouTube video, short, playlist",
+  "title": "Better YouTube Block - A better way to embed YouTube video, short, playlist",
   "category": "media",
   "description": "Embed YouTube videos without slowing down your site.",
   "keywords": [
